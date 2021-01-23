@@ -6,4 +6,4 @@
 3. 抽象类与接口
 
 ## Springboot
-[ 深入springboot原理讲解，太精彩了 ]（https://www.cnblogs.com/chongaizhen/p/11151892.html）
+[深入springboot原理讲解太精彩了](https://www.cnblogs.com/chongaizhen/p/11151892.html)
